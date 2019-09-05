@@ -1,0 +1,6 @@
+archive
+transcript*
+scripts
+script_*
+*.json
+.env

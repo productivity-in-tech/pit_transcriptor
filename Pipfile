@@ -1,0 +1,8 @@
+[packages]
+unsync = "*"
+boto3 = "*"
+mutagen = "*"
+click = "*"
+
+[requires]
+python_version = "3.7"
